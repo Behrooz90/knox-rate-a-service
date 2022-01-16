@@ -1,6 +1,7 @@
 # Knox Rate-A-Service
 
 A reddit clone built with Vue.js and Flask
+
 URL: https://yamankoudmani.github.io/revue/
 
 ## Installation
