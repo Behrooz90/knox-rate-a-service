@@ -2,8 +2,6 @@
 
 A reddit clone built with Vue.js and Flask
 
-![Screenshot](https://raw.githubusercontent.com/Lanseuo/revue/master/screenshot.png)
-
 ## Installation
 
 ```bash
